@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+tv-inventory-*/
+.DS_Store
